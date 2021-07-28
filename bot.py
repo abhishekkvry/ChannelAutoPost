@@ -55,5 +55,5 @@ async def _(event):
 
 
 print("Bot has started.")
-print("Do visit @BotCode_Seller..")
+print("Wait...a min..")
 datgbot.run_until_disconnected()
